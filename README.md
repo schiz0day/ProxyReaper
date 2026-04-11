@@ -1,7 +1,6 @@
 # 𝓑𝓵𝓸𝓬𝓴 ⁴³ © – Telegram Hotmail Inbox Checker Bot
 
 A zero-proxy, high-CPM Telegram bot that validates Hotmail/Outlook inboxes via private REST API.  
-Drop-in replacement for @SkylineHotmailCheckerV3_bot with identical command syntax.
 
 ---
 
