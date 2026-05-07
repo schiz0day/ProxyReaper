@@ -1,4 +1,6 @@
 # ProxyScraper Pro
+<img width="1983" height="793" alt="ChatGPT Image May 7, 2026, 02_40_30 PM" src="https://github.com/user-attachments/assets/cdb480da-89ef-484e-9ad1-4ddf84107515" />
+
 
 <div align="center">
 
